@@ -16,4 +16,5 @@ integrates the changes through reapplying a bunch of commits
 
 Q4: What are you looking forward to this semester?
 
-Answer: I’m looking forward to learning practical data science skills and applying them to real-world problems.
+Answer: I am looking forward to learning and applying knowledge that real 
+data scientists use so that I am able to use this during a job.
