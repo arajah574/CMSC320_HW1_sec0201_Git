@@ -4,9 +4,11 @@ Answer: Git allows teams to track changes, collaborate safely, and maintain vers
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data Science could be applied many field but one example is journalism as people can use it to create websites to write their articles.
+Answer: Data science could be applied to journalism as many articles need 
+data sources. For example news articles could use data graphs created by 
+data scientists.
 
-Q3: What is the difference between Merging and Rebasing?
+ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines branches with a merge commit, while rebasing reapplies commits onto another branch to create a cleaner history.
 
