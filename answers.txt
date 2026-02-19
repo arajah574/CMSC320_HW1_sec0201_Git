@@ -4,5 +4,4 @@ Answer: Git allows teams to track changes, collaborate safely, and maintain vers
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science can be applied to healthcare, for example using patient data to predict disease risk or improve treatment outcomes.
-
+Answer: Data Science could be applied many field but one example is journalism as people can use it to create websites to write their articles.
